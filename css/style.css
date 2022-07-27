@@ -1,0 +1,24 @@
+/* header section */
+header {
+    background: #FFF9F4;
+    height: 650px;
+}
+
+.logo {
+    width: 250px;
+}
+
+.shoe-img img {
+    width: 407px;
+    height: 407px;
+}
+
+#react {
+    color:
+        #FA804C;
+}
+
+.cart-icon {
+    height: 24px;
+    width: 24px;
+}
